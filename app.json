@@ -23,7 +23,13 @@
     "assetBundlePatterns": [
       "**/*"
     ],
+    "android":{
+      "package":"com.trialapp.mealsapp",
+      "versionCode": 1
+    },
     "ios": {
+      "bundleIdentifier": "com.yourcompany.yourappname",
+      "buildNumber": "1.0.0",
       "supportsTablet": true
     }
   }
