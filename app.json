@@ -3,7 +3,6 @@
     "name": "Meals App",
     "slug": "meals_app",
     "privacy": "public",
-    "sdkVersion": "36.0.0",
     "platforms": [
       "ios",
       "android",
@@ -23,8 +22,8 @@
     "assetBundlePatterns": [
       "**/*"
     ],
-    "android":{
-      "package":"com.trialapp.mealsapp",
+    "android": {
+      "package": "com.trialapp.mealsapp",
       "versionCode": 1
     },
     "ios": {
